@@ -1,5 +1,5 @@
-<img src=".images/github.png" alt="banner Hi, I'm Noa"></img>
-<h1 align="center">Hi 👋, I'm Noa</h1>
+<img src="./github.png" alt="banner Hi, I'm Noa"></img>
+
 <h3 align="center">Web Developer in training</h3>
 
 🌱 Currently in training at **La Plateforme** school, I specialize in web development.
