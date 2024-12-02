@@ -1,3 +1,4 @@
+<img src=".images/github.png" alt="banner Hi, I'm Noa"></img>
 <h1 align="center">Hi 👋, I'm Noa</h1>
 <h3 align="center">Web Developer in training</h3>
 
