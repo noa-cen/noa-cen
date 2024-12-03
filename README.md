@@ -11,7 +11,9 @@
 | ------------- | ----- |
 | 🇫🇷 | *French* (mother tongue) |
 | 🇺🇸 🇬🇧 | *English* (fluent) |
-| 🇪🇸 🇦🇷 | *Spanish* (bilingual) |
+| 🇦🇷 🇪🇸 | *Spanish* (bilingual) |
+| 🇵🇹 | *Portuguese* (beginner) |
+| 🇮🇹 | *Italiean* (beginner) |
 
 
 <h3 align="left">Languages and Tools:</h3>
