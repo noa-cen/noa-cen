@@ -13,7 +13,6 @@
 | 🇺🇸 🇬🇧 | *English* (fluent) |
 | 🇦🇷 🇪🇸 | *Spanish* (bilingual) |
 | 🇵🇹 | *Portuguese* (beginner) |
-| 🇮🇹 | *Italian* (beginner) |
 
 
 <h3 align="left">Languages and Tools:</h3>
