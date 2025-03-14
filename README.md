@@ -26,8 +26,8 @@
 </a>
 
 <a href="https://github.com/noa-cen/fansite_limonade">
-  <img height=140 src="https://github-readme-stats.vercel.app/api/pin/?username=noa-cen&repo=fansite_limonade&show_icons=true&theme=slateorange&hide_border=true" />
+  <img height=130 src="https://github-readme-stats.vercel.app/api/pin/?username=noa-cen&repo=fansite_limonade&show_icons=true&theme=slateorange&hide_border=true" />
 </a>
 <a href="https://github.com/vladimir-gorbachev/gestionnaire_de_menu">
-  <img height=140 src="https://github-readme-stats.vercel.app/api/pin/?username=vladimir-gorbachev&repo=gestionnaire_de_menu&show_icons=true&theme=slateorange&hide_border=true" />
+  <img height=130 src="https://github-readme-stats.vercel.app/api/pin/?username=vladimir-gorbachev&repo=gestionnaire_de_menu&show_icons=true&theme=slateorange&hide_border=true" />
 </a>
