@@ -7,7 +7,7 @@
 
 ## GitHub Stats
 <a href="https://github.com/noa-cen/github-readme-stats">
-  <img height=190 src="https://github-readme-stats.vercel.app/api?username=noa-cen&show_icons=true&theme=slateorange&hide_border=true" />
+  <img height=180 src="https://github-readme-stats.vercel.app/api?username=noa-cen&show_icons=true&theme=slateorange&hide_border=true" />
 </a>
 <a href="https://github.com/noa-cen/github-readme-stats">
   <img height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=noa-cen&hide=hack&theme=slateorange&show&icons=true&hide_border=true&layout=compact" />
