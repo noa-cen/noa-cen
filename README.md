@@ -14,6 +14,7 @@
 </a>
 <br>
 
+
 ## Projects
 <a href="https://github.com/noa-cen/quiz_night">
   <img height=130 src="https://github-readme-stats.vercel.app/api/pin/?username=noa-cen&repo=quiz_night&show_icons=true&theme=slateorange&hide_border=true" />
